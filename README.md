@@ -4,7 +4,8 @@ This project is a web dashboard showing the current status of COVID-19 in Sri La
 
 ## Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This is using [StyledComponents](https://styled-components.com/) for styling
 
 ## Available Scripts
 
